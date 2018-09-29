@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dina/CLionProjects/Tasks/Oving5/rubiksogmaterial.cpp
+cstdlib
+-
+GLUT/glut.h
+-
+stdio.h
+-
+

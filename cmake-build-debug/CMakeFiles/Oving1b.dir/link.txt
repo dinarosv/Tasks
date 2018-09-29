@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Oving1b.dir/Oving1/b.cpp.o  -o Oving1b -framework OpenGL -framework OpenGL -framework GLUT -framework Cocoa 

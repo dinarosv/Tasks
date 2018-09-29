@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Oving4.dir/Oving4/rubiksoglys.cpp.o  -o Oving4 -framework OpenGL -framework OpenGL -framework GLUT -framework Cocoa 

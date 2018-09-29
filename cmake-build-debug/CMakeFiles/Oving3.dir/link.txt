@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Oving3.dir/Oving3/rubiks.cpp.o  -o Oving3 -framework OpenGL -framework OpenGL -framework GLUT -framework Cocoa 

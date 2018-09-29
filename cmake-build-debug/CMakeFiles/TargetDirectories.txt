@@ -1,0 +1,9 @@
+/Users/dina/CLionProjects/Tasks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dina/CLionProjects/Tasks/cmake-build-debug/CMakeFiles/Oving6.dir
+/Users/dina/CLionProjects/Tasks/cmake-build-debug/CMakeFiles/Oving4.dir
+/Users/dina/CLionProjects/Tasks/cmake-build-debug/CMakeFiles/Oving2.dir
+/Users/dina/CLionProjects/Tasks/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dina/CLionProjects/Tasks/cmake-build-debug/CMakeFiles/Oving1b.dir
+/Users/dina/CLionProjects/Tasks/cmake-build-debug/CMakeFiles/Oving3.dir
+/Users/dina/CLionProjects/Tasks/cmake-build-debug/CMakeFiles/Oving5.dir
+/Users/dina/CLionProjects/Tasks/cmake-build-debug/CMakeFiles/Oving1.dir

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Oving2.dir/Oving2/cube.cpp.o  -o Oving2 -framework OpenGL -framework OpenGL -framework GLUT -framework Cocoa 
